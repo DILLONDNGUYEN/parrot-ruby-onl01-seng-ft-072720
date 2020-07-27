@@ -3,6 +3,6 @@
 
 def parrot(speak="Squawk!", wow)
   puts "#{speak}"
-  wow = "Pretty Bird!"
   return "Squawk!"
+  "Pretty Bird!"
 end
