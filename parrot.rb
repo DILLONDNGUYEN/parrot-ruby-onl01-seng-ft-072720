@@ -4,5 +4,4 @@
 def parrot(speak="Squawk!", wow)
   puts "#{speak}"
   return "Squawk!"
-  "Pretty Bird!"
 end
